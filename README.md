@@ -1,5 +1,8 @@
 # 乳腺X光片良恶性分类诊断
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)
+
+
 基于深度学习的乳腺X光片（Mammography）微钙化良恶性分类诊断系统。采用 **EfficientNet-B3** 预训练模型结合 **集成学习** 策略，针对 DDSM 乳腺X光数据集进行三分类诊断。
 
 ## 项目目的
