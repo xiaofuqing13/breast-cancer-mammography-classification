@@ -88,6 +88,24 @@ python breast_cancer_classification.py
 - `validation_metrics.png` — 验证集精准率/召回率/F1 分数曲线
 - `model_comparison.png` — 多模型性能对比
 
+## 实验结果
+
+### 训练过程曲线
+
+![训练曲线](images/training_curves.png)
+
+### 混淆矩阵
+
+![混淆矩阵](images/confusion_matrix.png)
+
+### 验证集指标变化
+
+![验证指标](images/validation_metrics.png)
+
+### 多模型性能对比
+
+![模型对比](images/model_comparison.png)
+
 ## 适用场景
 
 - 乳腺X光片辅助诊断研究
