@@ -1,4 +1,4 @@
-# Breast Cancer Mammography Classification
+# 乳腺X光片良恶性分类诊断
 
 基于深度学习的乳腺X光片（Mammography）微钙化良恶性分类诊断系统。采用 **EfficientNet-B3** 预训练模型结合 **集成学习** 策略，针对 DDSM 乳腺X光数据集进行三分类诊断。
 
@@ -144,6 +144,6 @@ python breast_cancer_classification.py
 └── model_comparison.png              # 模型对比图
 ```
 
-## License
+## 许可证
 
-MIT License
+MIT 许可证
