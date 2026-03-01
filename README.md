@@ -106,6 +106,10 @@ python breast_cancer_classification.py
 
 ![模型对比](images/model_comparison.png)
 
+### ROC 曲线
+
+![ROC曲线](images/roc_curve.png)
+
 ## 适用场景
 
 - 乳腺X光片辅助诊断研究
